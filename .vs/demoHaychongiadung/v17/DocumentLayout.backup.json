@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Windows\\source\\repos\\\u0110\u1ED3 \u00E1n OOP - H\u00E3y ch\u1ECDn gi\u00E1 \u0111\u00FAng\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D984AC4-4CC6-4CDB-8E31-457BCE34CA1D}|demoHaychongiadung\\demoHaychongiadung.csproj|C:\\Users\\Windows\\source\\repos\\\u0110\u1ED3 \u00E1n OOP - H\u00E3y ch\u1ECDn gi\u00E1 \u0111\u00FAng\\demohaychongiadung\\frmchaomung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D984AC4-4CC6-4CDB-8E31-457BCE34CA1D}|demoHaychongiadung\\demoHaychongiadung.csproj|c:\\users\\windows\\source\\repos\\\u0111\u1ED3 \u00E1n oop - h\u00E3y ch\u1ECDn gi\u00E1 \u0111\u00FAng\\demohaychongiadung\\frmchaomung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D984AC4-4CC6-4CDB-8E31-457BCE34CA1D}|demoHaychongiadung\\demoHaychongiadung.csproj|solutionrelative:demohaychongiadung\\frmchaomung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -39,7 +39,7 @@
       "RelativeMoniker": "D:0:0:{3D984AC4-4CC6-4CDB-8E31-457BCE34CA1D}|demoHaychongiadung\\demoHaychongiadung.csproj|solutionrelative:demohaychongiadung\\frmwinner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D984AC4-4CC6-4CDB-8E31-457BCE34CA1D}|demoHaychongiadung\\demoHaychongiadung.csproj|c:\\users\\windows\\source\\repos\\\u0111\u1ED3 \u00E1n oop - h\u00E3y ch\u1ECDn gi\u00E1 \u0111\u00FAng\\demohaychongiadung\\frmminigame3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D984AC4-4CC6-4CDB-8E31-457BCE34CA1D}|demoHaychongiadung\\demoHaychongiadung.csproj|C:\\Users\\Windows\\source\\repos\\\u0110\u1ED3 \u00E1n OOP - H\u00E3y ch\u1ECDn gi\u00E1 \u0111\u00FAng\\demohaychongiadung\\frmminigame3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D984AC4-4CC6-4CDB-8E31-457BCE34CA1D}|demoHaychongiadung\\demoHaychongiadung.csproj|solutionrelative:demohaychongiadung\\frmminigame3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -203,8 +203,7 @@
               "ToolTip": "C:\\Users\\Windows\\source\\repos\\\u0110\u1ED3 \u00E1n OOP - H\u00E3y ch\u1ECDn gi\u00E1 \u0111\u00FAng\\demoHaychongiadung\\frmVong1.cs [Design]",
               "RelativeToolTip": "demoHaychongiadung\\frmVong1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T15:21:30.288Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-22T15:21:30.288Z"
             },
             {
               "$type": "Document",
@@ -215,8 +214,7 @@
               "ToolTip": "C:\\Users\\Windows\\source\\repos\\\u0110\u1ED3 \u00E1n OOP - H\u00E3y ch\u1ECDn gi\u00E1 \u0111\u00FAng\\demoHaychongiadung\\frmMiniGame1.cs [Design]",
               "RelativeToolTip": "demoHaychongiadung\\frmMiniGame1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T15:51:36.121Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-07T15:51:36.121Z"
             },
             {
               "$type": "Document",
@@ -227,8 +225,7 @@
               "ToolTip": "C:\\Users\\Windows\\source\\repos\\\u0110\u1ED3 \u00E1n OOP - H\u00E3y ch\u1ECDn gi\u00E1 \u0111\u00FAng\\demoHaychongiadung\\frmMiniGame2.cs [Design]",
               "RelativeToolTip": "demoHaychongiadung\\frmMiniGame2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T15:39:52.762Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-23T15:39:52.762Z"
             },
             {
               "$type": "Document",
@@ -236,9 +233,9 @@
               "Title": "frmChaoMung.cs",
               "DocumentMoniker": "C:\\Users\\Windows\\source\\repos\\\u0110\u1ED3 \u00E1n OOP - H\u00E3y ch\u1ECDn gi\u00E1 \u0111\u00FAng\\demoHaychongiadung\\frmChaoMung.cs",
               "RelativeDocumentMoniker": "demoHaychongiadung\\frmChaoMung.cs",
-              "ToolTip": "C:\\Users\\Windows\\source\\repos\\\u0110\u1ED3 \u00E1n OOP - H\u00E3y ch\u1ECDn gi\u00E1 \u0111\u00FAng\\demoHaychongiadung\\frmChaoMung.cs*",
-              "RelativeToolTip": "demoHaychongiadung\\frmChaoMung.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwBgAAABtAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Windows\\source\\repos\\\u0110\u1ED3 \u00E1n OOP - H\u00E3y ch\u1ECDn gi\u00E1 \u0111\u00FAng\\demoHaychongiadung\\frmChaoMung.cs",
+              "RelativeToolTip": "demoHaychongiadung\\frmChaoMung.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T14:30:40.382Z",
               "EditorCaption": ""
@@ -253,8 +250,7 @@
               "RelativeToolTip": "demoHaychongiadung\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T14:49:15.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T14:49:15.099Z"
             },
             {
               "$type": "Document",
@@ -265,8 +261,7 @@
               "ToolTip": "C:\\Users\\Windows\\source\\repos\\\u0110\u1ED3 \u00E1n OOP - H\u00E3y ch\u1ECDn gi\u00E1 \u0111\u00FAng\\demoHaychongiadung\\frmDangNhap.cs [Design]",
               "RelativeToolTip": "demoHaychongiadung\\frmDangNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T01:58:28.875Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-12T01:58:28.875Z"
             },
             {
               "$type": "Document",
@@ -274,11 +269,10 @@
               "Title": "frmChaoMung.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Windows\\source\\repos\\\u0110\u1ED3 \u00E1n OOP - H\u00E3y ch\u1ECDn gi\u00E1 \u0111\u00FAng\\demoHaychongiadung\\frmChaoMung.cs",
               "RelativeDocumentMoniker": "demoHaychongiadung\\frmChaoMung.cs",
-              "ToolTip": "C:\\Users\\Windows\\source\\repos\\\u0110\u1ED3 \u00E1n OOP - H\u00E3y ch\u1ECDn gi\u00E1 \u0111\u00FAng\\demoHaychongiadung\\frmChaoMung.cs [Design]*",
-              "RelativeToolTip": "demoHaychongiadung\\frmChaoMung.cs [Design]*",
+              "ToolTip": "C:\\Users\\Windows\\source\\repos\\\u0110\u1ED3 \u00E1n OOP - H\u00E3y ch\u1ECDn gi\u00E1 \u0111\u00FAng\\demoHaychongiadung\\frmChaoMung.cs [Design]",
+              "RelativeToolTip": "demoHaychongiadung\\frmChaoMung.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:00:11.016Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-22T07:00:11.016Z"
             },
             {
               "$type": "Document",
@@ -289,8 +283,7 @@
               "ToolTip": "C:\\Users\\Windows\\source\\repos\\\u0110\u1ED3 \u00E1n OOP - H\u00E3y ch\u1ECDn gi\u00E1 \u0111\u00FAng\\demoHaychongiadung\\frmWinner.cs [Design]",
               "RelativeToolTip": "demoHaychongiadung\\frmWinner.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T07:59:03.276Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-24T07:59:03.276Z"
             },
             {
               "$type": "Document",
@@ -302,8 +295,7 @@
               "RelativeToolTip": "demoHaychongiadung\\frmWinner.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAuwCQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T08:02:30.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T08:02:30.223Z"
             },
             {
               "$type": "Document",
@@ -315,8 +307,7 @@
               "RelativeToolTip": "demoHaychongiadung\\frmVong1.Designer.cs",
               "ViewState": "AgIAANgAAAAAAAAAAAAYwOoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T03:33:24.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T03:33:24.111Z"
             },
             {
               "$type": "Document",
@@ -328,8 +319,7 @@
               "RelativeToolTip": "demoHaychongiadung\\frmMiniGame3.Designer.cs",
               "ViewState": "AgIAAKEAAAAAAAAAAAAYwLIAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T03:14:04.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T03:14:04.75Z"
             },
             {
               "$type": "Document",
@@ -353,8 +343,7 @@
               "RelativeToolTip": "demoHaychongiadung\\Properties\\Resources.resx",
               "ViewState": "AgIAAIcAAAAAAAAAAADwv5EAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-11-14T12:05:39.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T12:05:39.017Z"
             },
             {
               "$type": "Document",
@@ -378,8 +367,7 @@
               "RelativeToolTip": "demoHaychongiadung\\frmMiniGame2.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T15:52:19.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T15:52:19.755Z"
             },
             {
               "$type": "Document",
@@ -391,8 +379,7 @@
               "RelativeToolTip": "demoHaychongiadung\\frmMiniGame1.cs",
               "ViewState": "AgIAAHUAAAAAAAAAAAAUwH4AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T15:30:19.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T15:30:19.229Z"
             },
             {
               "$type": "Document",
@@ -415,8 +402,7 @@
               "RelativeToolTip": "demoHaychongiadung\\frmVong1.cs",
               "ViewState": "AgIAAB0BAAAAAAAAAAAQwD4BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T09:05:49.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T09:05:49.909Z"
             },
             {
               "$type": "Document",
@@ -428,8 +414,7 @@
               "RelativeToolTip": "demoHaychongiadung\\frmDangNhap.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAgwFYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T14:26:54.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T14:26:54.518Z"
             },
             {
               "$type": "Document",
@@ -441,8 +426,7 @@
               "RelativeToolTip": "demoHaychongiadung\\frmDangNhap.Designer.cs",
               "ViewState": "AgIAAMQAAAAAAAAAAAAtwNYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T01:51:55.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T01:51:55.766Z"
             },
             {
               "$type": "Document",
@@ -488,8 +472,7 @@
               "RelativeToolTip": "demoHaychongiadung\\frmMiniGame2.Designer.cs",
               "ViewState": "AgIAAO0AAAAAAAAAAAAtwP8AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T03:01:36.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T03:01:36.703Z"
             },
             {
               "$type": "Document",
@@ -501,8 +484,7 @@
               "RelativeToolTip": "demoHaychongiadung\\frmMiniGame1.Designer.cs",
               "ViewState": "AgIAAPoAAAAAAAAAAAAtwAwBAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T15:51:33.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T15:51:33.312Z"
             },
             {
               "$type": "Document",
@@ -526,8 +508,7 @@
               "RelativeToolTip": "demoHaychongiadung\\frmChaoMung.Designer.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAtwHIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T14:31:01.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T14:31:01.914Z"
             },
             {
               "$type": "Document",
