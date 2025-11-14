@@ -18,7 +18,7 @@ namespace demoHaychongiadung
         float hue = 0;
         List<Firework> fireworkList = new List<Firework>();
         Random rand = new Random();
-        SoundPlayer player;
+        private SoundPlayer player = new SoundPlayer();
         public frmWinner()
         {
             InitializeComponent();
@@ -34,7 +34,9 @@ namespace demoHaychongiadung
             fireworkTimer.Interval = 50;
             fireworkTimer.Tick += FireworkTimer_Tick;
             fireworkTimer.Start();
-
+            player.SoundLocation = "Sofia-the-First-theme-song-_-Lyrics_.wav";
+            player.Load();
+            player.PlayLooping();
         }
         
         private void FireworkTimer_Tick(object sender, EventArgs e)
