@@ -165,7 +165,6 @@
             this.pic1.BackColor = System.Drawing.Color.White;
             this.pic1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pic1.Cursor = System.Windows.Forms.Cursors.Hand;
-            
             this.pic1.Location = new System.Drawing.Point(6, 6);
             this.pic1.Name = "pic1";
             this.pic1.Size = new System.Drawing.Size(106, 98);
@@ -188,7 +187,6 @@
             // 
             this.pic3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pic3.Cursor = System.Windows.Forms.Cursors.Hand;
-          
             this.pic3.Location = new System.Drawing.Point(230, 6);
             this.pic3.Name = "pic3";
             this.pic3.Size = new System.Drawing.Size(106, 98);
@@ -200,7 +198,6 @@
             // 
             this.pic4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pic4.Cursor = System.Windows.Forms.Cursors.Hand;
-            
             this.pic4.Location = new System.Drawing.Point(342, 6);
             this.pic4.Name = "pic4";
             this.pic4.Size = new System.Drawing.Size(106, 98);
@@ -212,7 +209,6 @@
             // 
             this.pic5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pic5.Cursor = System.Windows.Forms.Cursors.Hand;
-           
             this.pic5.Location = new System.Drawing.Point(454, 6);
             this.pic5.Name = "pic5";
             this.pic5.Size = new System.Drawing.Size(106, 98);
@@ -284,12 +280,16 @@
             // 
             // btnStartGame3
             // 
+            this.btnStartGame3.BackColor = System.Drawing.Color.White;
+            this.btnStartGame3.FlatAppearance.BorderSize = 0;
+            this.btnStartGame3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnStartGame3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnStartGame3.Location = new System.Drawing.Point(355, 355);
             this.btnStartGame3.Name = "btnStartGame3";
             this.btnStartGame3.Size = new System.Drawing.Size(91, 36);
             this.btnStartGame3.TabIndex = 18;
             this.btnStartGame3.Text = "Bắt đầu";
-            this.btnStartGame3.UseVisualStyleBackColor = true;
+            this.btnStartGame3.UseVisualStyleBackColor = false;
             this.btnStartGame3.Click += new System.EventHandler(this.btnStartGame3_Click);
             // 
             // Game3Timer
@@ -323,7 +323,6 @@
             this.Name = "frmMiniGame3";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Mingame3";
-           
             this.panel1.ResumeLayout(false);
             this.pnlGuessPrice.ResumeLayout(false);
             this.pnlGuessPrice.PerformLayout();

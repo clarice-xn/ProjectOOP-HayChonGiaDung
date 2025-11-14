@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Drawing.Text;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -13,6 +14,7 @@ namespace demoHaychongiadung
 {
     public partial class frmVong3 : Form
     {
+        PrivateFontCollection myfonts = new PrivateFontCollection();
         private Player winner3;
         private List<Product> products;
         private List<Product> currentPack;
@@ -31,6 +33,27 @@ namespace demoHaychongiadung
             LoadProductPack();
             Round3Timer.Start();
             round3.WinnerDeclared += RoundFinal_WinnerDeclared;
+            string fontPath1 = Path.Combine(Application.StartupPath, "Resources/Fonts/000 CCBattleCry [TeddyBear].ttf");
+            string fontPath2 = Path.Combine(Application.StartupPath, "Resources/Fonts/CCElephantmenTall.otf");
+            string fontPath3 = Path.Combine(Application.StartupPath, "Resources/Fonts/ProtestRiot-Regular.ttf");
+            string fontPath4 = Path.Combine(Application.StartupPath, "Resources/Fonts/UTM Alter Gothic.ttf");
+            string fontPath5 = Path.Combine(Application.StartupPath, "Resources/Fonts/Freeman-Regular.ttf");
+            myfonts.AddFontFile(fontPath1);
+            myfonts.AddFontFile(fontPath2);
+            myfonts.AddFontFile(fontPath3);
+            myfonts.AddFontFile(fontPath4);
+            myfonts.AddFontFile(fontPath5);
+            lblTimer.Font = new Font(myfonts.Families[0], 12);
+            lblWinner.Font= new Font(myfonts.Families[1], 24);
+            lblPickGame.Font= new Font(myfonts.Families[0], 16);
+            lblProduct1.Font= new Font(myfonts.Families[5], 10);
+            lblProduct2.Font = new Font(myfonts.Families[5], 10);
+            lblProduct3.Font = new Font(myfonts.Families[5], 10);
+            lblGuess.Font= new Font(myfonts.Families[5], 12);
+            label4.Font= new Font(myfonts.Families[4], 14);
+            lblName.Font = new Font(myfonts.Families[2], 8);
+            lblScore.Font = new Font(myfonts.Families[2], 8);
+            lblRule3.Font = new Font(myfonts.Families[4], 10);
             this.BackColor = ColorTranslator.FromHtml("#1e1e2f");
             pnlGuessPrice.BackColor= ColorTranslator.FromHtml("#1e1e2f");
             panel1.BackColor = ColorTranslator.FromHtml("#62626d");

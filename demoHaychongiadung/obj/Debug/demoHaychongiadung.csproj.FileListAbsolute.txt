@@ -102,3 +102,4 @@ C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaycho
 C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\Resources\Fonts\CCElephantmenTall.otf
 C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\Resources\Fonts\ProtestRiot-Regular.ttf
 C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\Resources\Fonts\UTM Alter Gothic.ttf
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\Resources\Fonts\Freeman-Regular.ttf

@@ -43,3 +43,4 @@ C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaycho
 C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\obj\Release\demoHaychongiadung.csproj.CoreCompileInputs.cache
 C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\obj\Release\demoHaychongiadung.exe
 C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\obj\Release\demoHaychongiadung.pdb
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Release\Resources\Fonts\Freeman-Regular.ttf

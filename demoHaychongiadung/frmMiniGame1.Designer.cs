@@ -198,6 +198,7 @@
             // btnExitr1
             // 
             this.btnExitr1.BackColor = System.Drawing.Color.White;
+            this.btnExitr1.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnExitr1.FlatAppearance.BorderSize = 0;
             this.btnExitr1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnExitr1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -266,7 +267,6 @@
             this.Name = "frmMiniGame1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmMiniGame1";
-           
             this.pnlGuessPrice.ResumeLayout(false);
             this.pnlGuessPrice.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();

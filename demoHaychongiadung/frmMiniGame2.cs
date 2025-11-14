@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Drawing.Text;
 using System.IO;
 using System.Linq;
 using System.Reflection;
@@ -14,6 +15,7 @@ namespace demoHaychongiadung
 {
     public partial class frmMiniGame2 : Form
     {
+        PrivateFontCollection myfonts = new PrivateFontCollection();
         private Player Winner2;
         private List<Product>  products_list; 
         private List<double> currentPrice;
@@ -31,6 +33,20 @@ namespace demoHaychongiadung
             btnPrice1.Click += Button_Click;
             btnPrice2.Click += Button_Click;
             btnPrice3.Click += Button_Click;
+            string fontPath1 = Path.Combine(Application.StartupPath, "Resources/Fonts/000 CCBattleCry [TeddyBear].ttf");
+            string fontPath2 = Path.Combine(Application.StartupPath, "Resources/Fonts/CCElephantmenTall.otf");
+            string fontPath3 = Path.Combine(Application.StartupPath, "Resources/Fonts/ProtestRiot-Regular.ttf");
+            string fontPath4 = Path.Combine(Application.StartupPath, "Resources/Fonts/UTM Alter Gothic.ttf");
+            string fontPath5 = Path.Combine(Application.StartupPath, "Resources/Fonts/Freeman-Regular.ttf");
+            myfonts.AddFontFile(fontPath1);
+            myfonts.AddFontFile(fontPath2);
+            myfonts.AddFontFile(fontPath3);
+            myfonts.AddFontFile(fontPath4);
+            myfonts.AddFontFile(fontPath5);
+            lblRuleGame2.Font = new Font(myfonts.Families[0], 18);
+            lblTimer.Font = new Font(myfonts.Families[0], 14);
+            lblProductName.Font = new Font(myfonts.Families[5], 12);
+            lblProduct.Font = new Font(myfonts.Families[0], 12);
             panel2.BackColor = ColorTranslator.FromHtml("#a5a5ac");
             panel1.BackColor = ColorTranslator.FromHtml("#1ABC9C");
             pnlGuessPrice.BackColor = ColorTranslator.FromHtml("#1e1e2f");

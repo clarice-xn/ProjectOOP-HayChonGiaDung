@@ -177,6 +177,9 @@
     <Content Include="Resources\Fonts\ProtestRiot-Regular.ttf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Resources\Fonts\Freeman-Regular.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <None Include="Resources\idea.jpg" />
   </ItemGroup>
   <ItemGroup>

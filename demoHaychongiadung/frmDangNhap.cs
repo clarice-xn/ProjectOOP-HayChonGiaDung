@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Drawing.Text;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,6 +15,7 @@ namespace demoHaychongiadung
 {
     public partial class frmLogin : Form
     {
+        PrivateFontCollection myfonts = new PrivateFontCollection();
         Game game = new Game();
         private List<Player> Players { get; set; }
         
@@ -23,7 +26,21 @@ namespace demoHaychongiadung
             txtPlayer2.LostFocus += TxtPlayer_LostFocus;
             txtPlayer3.LostFocus += TxtPlayer_LostFocus;
             txtPlayer4.LostFocus += TxtPlayer_LostFocus;
-            
+            string fontPath1 = Path.Combine(Application.StartupPath, "Resources/Fonts/000 CCBattleCry [TeddyBear].ttf");
+            string fontPath2 = Path.Combine(Application.StartupPath, "Resources/Fonts/CCElephantmenTall.otf");
+            string fontPath3 = Path.Combine(Application.StartupPath, "Resources/Fonts/ProtestRiot-Regular.ttf");
+            string fontPath4 = Path.Combine(Application.StartupPath, "Resources/Fonts/UTM Alter Gothic.ttf");
+            myfonts.AddFontFile(fontPath1);
+            myfonts.AddFontFile(fontPath2);
+            myfonts.AddFontFile(fontPath3);
+            myfonts.AddFontFile(fontPath4);
+            label1.Font = new Font(myfonts.Families[1], 36);
+            btnLogin.Font= new Font(myfonts.Families[1], 12);
+            btnExit.Font = new Font(myfonts.Families[1], 12);
+            lblPlayer1.Font= new Font(myfonts.Families[2], 12);
+            lblPlayer2.Font = new Font(myfonts.Families[2], 12);
+            lblPLayer3.Font = new Font(myfonts.Families[2], 12);
+            lblPlayer4.Font = new Font(myfonts.Families[2], 12);
             label1.BackColor = ColorTranslator.FromHtml("#e91e63"); 
             this.BackColor = ColorTranslator.FromHtml("#1e1e2f");
             btnLogin.BackColor = ColorTranslator.FromHtml("#4CAF50");

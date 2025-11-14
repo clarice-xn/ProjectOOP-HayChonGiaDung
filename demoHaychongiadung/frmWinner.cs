@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Drawing.Text;
+using System.IO;
 using System.Linq;
 using System.Media;
 using System.Text;
@@ -13,6 +15,7 @@ namespace demoHaychongiadung
 {
     public partial class frmWinner : Form
     {
+        PrivateFontCollection myfonts = new PrivateFontCollection();
         Timer rainbowTimer = new Timer();   
         Timer fireworkTimer = new Timer();
         float hue = 0;
@@ -22,6 +25,17 @@ namespace demoHaychongiadung
         public frmWinner()
         {
             InitializeComponent();
+            string fontPath1 = Path.Combine(Application.StartupPath, "Resources/Fonts/000 CCBattleCry [TeddyBear].ttf");
+            string fontPath2 = Path.Combine(Application.StartupPath, "Resources/Fonts/CCElephantmenTall.otf");
+            string fontPath3 = Path.Combine(Application.StartupPath, "Resources/Fonts/ProtestRiot-Regular.ttf");
+            string fontPath4 = Path.Combine(Application.StartupPath, "Resources/Fonts/UTM Alter Gothic.ttf");
+            string fontPath5 = Path.Combine(Application.StartupPath, "Resources/Fonts/Freeman-Regular.ttf");
+            myfonts.AddFontFile(fontPath1);
+            myfonts.AddFontFile(fontPath2);
+            myfonts.AddFontFile(fontPath3);
+            myfonts.AddFontFile(fontPath4);
+            myfonts.AddFontFile(fontPath5);
+            lblWinner.Font = new Font(myfonts.Families[0], 24);
             this.DoubleBuffered = true;
         }
 
