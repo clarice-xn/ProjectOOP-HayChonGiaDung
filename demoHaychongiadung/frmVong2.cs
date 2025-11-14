@@ -33,9 +33,9 @@ namespace demoHaychongiadung
             myfonts.AddFontFile(fontPath4);
             myfonts.AddFontFile(fontPath5);
             lblMinigame.Font= new Font(myfonts.Families[1], 24);
-            lblPickGame.Font = new Font(myfonts.Families[0], 24);
-            lblName.Font = new Font(myfonts.Families[2], 8);
-            lblScore.Font = new Font(myfonts.Families[2], 8);
+            lblPickGame.Font = new Font(myfonts.Families[0], 15);
+            lblName.Font = new Font(myfonts.Families[1], 8);
+            lblScore.Font = new Font(myfonts.Families[1], 8);
             lblRules2.Font = new Font(myfonts.Families[4], 10);
             lblGame1.Font = new Font(myfonts.Families[1], 14);
             lblGame2.Font = new Font(myfonts.Families[1], 14);

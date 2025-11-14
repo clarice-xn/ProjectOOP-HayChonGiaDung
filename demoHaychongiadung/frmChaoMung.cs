@@ -28,6 +28,8 @@ namespace demoHaychongiadung
             myfonts.AddFontFile(fontPath2);
             myfonts.AddFontFile(fontPath3);
             myfonts.AddFontFile(fontPath4);
+            btnStart.Font=new Font(myfonts.Families[1], 12);
+            btnExit.Font = new Font(myfonts.Families[1], 12);
             btnStart.BackColor = ColorTranslator.FromHtml("#4CAF50");
             btnExit.BackColor = ColorTranslator.FromHtml("#E57373");
         }

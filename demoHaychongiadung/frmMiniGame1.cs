@@ -49,8 +49,8 @@ namespace demoHaychongiadung
             myfonts.AddFontFile(fontPath5);
             lblRuleGame1.Font= new Font(myfonts.Families[0], 18);
             lblTimer.Font = new Font(myfonts.Families[0], 14);
-            lblProductA.Font = new Font(myfonts.Families[5], 12);
-            lblProductB.Font= new Font(myfonts.Families[5], 12);
+            lblProductA.Font = new Font(myfonts.Families[2], 12, FontStyle.Italic);
+            lblProductB.Font= new Font(myfonts.Families[2], 12, FontStyle.Italic);
             lblProduct.Font= new Font(myfonts.Families[0], 12);
 
             panel2.BackColor=ColorTranslator.FromHtml("#a5a5ac");
