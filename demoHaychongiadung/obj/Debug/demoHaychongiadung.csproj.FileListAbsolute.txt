@@ -1,0 +1,100 @@
+C:\Users\Windows\source\repos\demoHaychongiadung\demoHaychongiadung\bin\Debug\demoHaychongiadung.exe.config
+C:\Users\Windows\source\repos\demoHaychongiadung\demoHaychongiadung\bin\Debug\demoHaychongiadung.exe
+C:\Users\Windows\source\repos\demoHaychongiadung\demoHaychongiadung\bin\Debug\demoHaychongiadung.pdb
+C:\Users\Windows\source\repos\demoHaychongiadung\demoHaychongiadung\obj\Debug\demoHaychongiadung.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\demoHaychongiadung\demoHaychongiadung\obj\Debug\demoHaychongiadung.Properties.Resources.resources
+C:\Users\Windows\source\repos\demoHaychongiadung\demoHaychongiadung\obj\Debug\demoHaychongiadung.csproj.GenerateResource.cache
+C:\Users\Windows\source\repos\demoHaychongiadung\demoHaychongiadung\obj\Debug\demoHaychongiadung.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\demoHaychongiadung\demoHaychongiadung\obj\Debug\demoHaychongiadung.exe
+C:\Users\Windows\source\repos\demoHaychongiadung\demoHaychongiadung\obj\Debug\demoHaychongiadung.pdb
+C:\Users\Windows\source\repos\demoHaychongiadung\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmWelcome.resources
+C:\Users\Windows\source\repos\demoHaychongiadung\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmLogin.resources
+C:\Users\Windows\source\repos\demoHaychongiadung\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmVong1.resources
+C:\Users\Windows\source\repos\demoHaychongiadung\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmMinigame1.resources
+C:\Users\Windows\source\repos\demoHaychongiadung\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmVong2.resources
+C:\Users\Windows\source\repos\demoHaychongiadung\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmMiniGame2.resources
+C:\Users\Windows\source\repos\demoHaychongiadung\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmMiniGame3.resources
+C:\Users\Windows\source\repos\demoHaychongiadung\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmVong3.resources
+C:\Users\Windows\source\repos\demoHaychongiadung\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmWinner.resources
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\demoHaychongiadung.exe.config
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\demoHaychongiadung.exe
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\demoHaychongiadung.pdb
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\obj\Debug\demoHaychongiadung.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmWelcome.resources
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmLogin.resources
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmMiniGame1.resources
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmMiniGame2.resources
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmMiniGame3.resources
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmVong1.resources
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmVong2.resources
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmVong3.resources
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmWinner.resources
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\obj\Debug\demoHaychongiadung.Properties.Resources.resources
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\obj\Debug\demoHaychongiadung.csproj.GenerateResource.cache
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\obj\Debug\demoHaychongiadung.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\obj\Debug\demoHaychongiadung.exe
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\obj\Debug\demoHaychongiadung.pdb
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\iphone-16-pro.jpg
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\Smart Tivi Samsung 4K 50 inch.jpg
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\ao_da.jpg
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\ao_khoac.jpg
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\ipad_pro.jpg
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\jeans.jpg
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\mat_ong.jpg
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\nike_airmax.jpg
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\oreo.jpg
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\polo_shirt.jpg
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\samsung_s24.jpg
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\sony_wh1000xm5.jpg
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\sua_vinamilk.jpg
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\thit_bo_uc.jpg
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\trung_ga.jpg
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\vay_congso.jpg
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\airpods_pro.jpg
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\ca_hoi.jpg
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\gao_st25.jpg
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\macbook_m2.jpg
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\somi_trang.jpg
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\airpods_pro_sale.jpg
+C:\Users\Windows\source\repos\demoHaychongiadung - Copy\demoHaychongiadung\bin\Debug\image\gao_st25_sale.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\airpods_pro.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\airpods_pro_sale.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\ao_da.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\ao_khoac.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\ca_hoi.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\gao_st25.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\gao_st25_sale.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\ipad_pro.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\iphone-16-pro.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\jeans.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\macbook_m2.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\mat_ong.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\nike_airmax.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\oreo.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\polo_shirt.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\samsung_s24.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\Smart Tivi Samsung 4K 50 inch.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\somi_trang.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\sony_wh1000xm5.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\sua_vinamilk.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\thit_bo_uc.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\trung_ga.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\image\vay_congso.jpg
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\demoHaychongiadung.exe.config
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\demoHaychongiadung.exe
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\bin\Debug\demoHaychongiadung.pdb
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\obj\Debug\demoHaychongiadung.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmWelcome.resources
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmLogin.resources
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmMiniGame1.resources
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmMiniGame2.resources
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmMiniGame3.resources
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmVong1.resources
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmVong2.resources
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmVong3.resources
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\obj\Debug\demoHaychongiadung.frmWinner.resources
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\obj\Debug\demoHaychongiadung.Properties.Resources.resources
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\obj\Debug\demoHaychongiadung.csproj.GenerateResource.cache
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\obj\Debug\demoHaychongiadung.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\obj\Debug\demoHaychongiadung.exe
+C:\Users\Windows\source\repos\Đồ án OOP - Hãy chọn giá đúng\demoHaychongiadung\obj\Debug\demoHaychongiadung.pdb

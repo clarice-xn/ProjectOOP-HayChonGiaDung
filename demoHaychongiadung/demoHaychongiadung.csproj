@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3D984AC4-4CC6-4CDB-8E31-457BCE34CA1D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>demoHaychongiadung</RootNamespace>
+    <AssemblyName>demoHaychongiadung</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="design pattern.cs" />
+    <Compile Include="event &amp; delegate.cs" />
+    <Compile Include="exceptions.cs" />
+    <Compile Include="file handler.cs" />
+    <Compile Include="frmChaoMung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChaoMung.Designer.cs">
+      <DependentUpon>frmChaoMung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangNhap.Designer.cs">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMiniGame1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMiniGame1.Designer.cs">
+      <DependentUpon>frmMiniGame1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMiniGame2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMiniGame2.Designer.cs">
+      <DependentUpon>frmMiniGame2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMiniGame3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMiniGame3.Designer.cs">
+      <DependentUpon>frmMiniGame3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVong1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVong1.Designer.cs">
+      <DependentUpon>frmVong1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVong3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVong3.Designer.cs">
+      <DependentUpon>frmVong3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWinner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWinner.Designer.cs">
+      <DependentUpon>frmWinner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main game.cs" />
+    <Compile Include="minigame.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="Products.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="frmVong2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVong2.Designer.cs">
+      <DependentUpon>frmVong2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="round 1.cs" />
+    <Compile Include="round 2.cs" />
+    <Compile Include="round final.cs" />
+    <Compile Include="round.cs" />
+    <EmbeddedResource Include="frmChaoMung.resx">
+      <DependentUpon>frmChaoMung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMiniGame1.resx">
+      <DependentUpon>frmMiniGame1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMiniGame2.resx">
+      <DependentUpon>frmMiniGame2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMiniGame3.resx">
+      <DependentUpon>frmMiniGame3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVong1.resx">
+      <DependentUpon>frmVong1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVong2.resx">
+      <DependentUpon>frmVong2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVong3.resx">
+      <DependentUpon>frmVong3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWinner.resx">
+      <DependentUpon>frmWinner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\idea.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gợi í.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bulb-line-black-icon-png_281654.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\idea-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\idea-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bulb-line-black-icon-png_281654-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gợi_í-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="image\airpods_pro.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\airpods_pro_sale.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\ao_da.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\ao_khoac.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\ca_hoi.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\gao_st25.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\gao_st25_sale.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\ipad_pro.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\iphone-16-pro.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\jeans.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\macbook_m2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\mat_ong.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\nike_airmax.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\oreo.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\polo_shirt.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\samsung_s24.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\Smart Tivi Samsung 4K 50 inch.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\somi_trang.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\sony_wh1000xm5.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\sua_vinamilk.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\thit_bo_uc.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\trung_ga.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\vay_congso.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
